@@ -77,3 +77,8 @@ It makes certain outputs more likely.
 We are not controlling decisions.
 
 We are controlling what decisions become statistically likely.
+---
+
+## Visual
+
+![AI Governance Infographic](infographic.png)
