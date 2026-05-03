@@ -82,3 +82,15 @@ We are controlling what decisions become statistically likely.
 ## Visual
 
 ![AI Governance Infographic](infographic.png)
+---
+
+## Failure Modes (Why This Breaks)
+
+- Distribution Shift  
+  Behavior degrades outside training data.
+
+- Adversarial Prompts  
+  Inputs can bypass learned safety patterns.
+
+- Reward Misalignment  
+  Optimizing proxies ≠ achieving true alignment (Goodhart’s Law)
